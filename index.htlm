@@ -1,0 +1,13 @@
+!DOCTYPE html>
+  <html lang="fr, ang, esp" >
+    <head>
+        <meta charset="utf-8">
+        <meta name="description" content="présente et reçoit les diferente offres de nos services en photographie">
+        <meta name="keywords" content="photographie, shooting, mariage, aniversaire, soirée, fianciale">
+        <title>doudou.picture</title>
+    </head>
+    <body>
+        <p>salut<strong> les gens</strong></p>
+        <img src="image/avatar.png"alt="mon avatar">
+    </body>
+  </html>
